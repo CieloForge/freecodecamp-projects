@@ -20,11 +20,9 @@ This repository contains my solutions to FreeCodeCamp.org projects across differ
 
 ### Responsive Web Design Certification
 
-| Project | Description | Live Demo |     | **Survey Form** | A responsive survey form with various input types | Not Avaiable Yet |
-| ------- | ----------- | --------- | --- | --------------- | ------------------------------------------------- | ---------------- |
-|         |             |           |     |                 |                                                   |                  |
-
-
+| Project     | Description                                       | Live Demo        |
+| ----------- | ------------------------------------------------- | ---------------- |
+| Survey Form | A responsive survey form with various input types | Not Avaiable Yet |
 
 ## 🤝 Contributing
 
