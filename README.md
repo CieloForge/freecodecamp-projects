@@ -20,9 +20,14 @@ This repository contains my solutions to FreeCodeCamp.org projects across differ
 
 ### Responsive Web Design Certification
 
-| Project     | Description                                       | Live Demo        |
-| ----------- | ------------------------------------------------- | ---------------- |
-| Survey Form | A responsive survey form with various input types | Not Avaiable Yet |
+| Project                      | Description                                                                                                                                                                                | Live Demo        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| Survey Form                  | A responsive survey form with various input types *Part of the HTML Section of Responsive Web Design Certificate*                                                                          | Not Avaiable Yet |
+| Page of Playing Cards        | A simple page showing some playing cards for the *CSS section of Responsive Web Design Certificate*                                                                                        | Not Avaiable Yet |
+| Book Inventory App           | A simple page for displaying a book inventory with various data and attributes that are for tracking using only HTML & CSS. *Part of the CSS section of Responsive Web Design Certificate* | Not Avaiable Yet |
+| Technical Documentation Page | A page constructed to be a clean documentation page using only HTML & CSS. *Part of the CSS section of Responsive Web Design Certificate*                                                  | Not Avaiable Yet |
+
+
 
 ## 🤝 Contributing
 
